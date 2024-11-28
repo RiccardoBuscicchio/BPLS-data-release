@@ -20,4 +20,13 @@ Data behind figures are provided within the repository in the `./data/` subfolde
 In `./notebooks/jupyter/`, we provide a jupyter notebook for each figure.
 
 ## Requirements
-Feel free to use `./bpls.yaml` to create a conda environment to reproduce our figures. 
+Feel free to use `./bpls.yaml` to create a conda environment to reproduce our figures, with 
+```bash
+conda env create -f bpls.yaml
+```
+
+Or install the following dependencies:
+- `numpy`
+- `matplotlib`
+- `scipy`
+- `scikit-image`
