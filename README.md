@@ -1,6 +1,7 @@
 # Bayesian power-law sensitivity data release
 
 Data release supporting:
+
 _Is your stochastic signal really detectable?_
 
 Federico Pozzoli, Jonathan Gair, Riccardo Buscicchio, Lorenzo Speri. 
