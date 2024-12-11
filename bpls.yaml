@@ -1,0 +1,11 @@
+name: bpls
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - ipykernel
