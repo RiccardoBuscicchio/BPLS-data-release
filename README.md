@@ -11,7 +11,7 @@ Federico Pozzoli, Jonathan Gair, Riccardo Buscicchio, Lorenzo Speri.
 
 You are welcome to use this dataset in your research. We kindly ask you to cite the paper above. 
 If you want to cite specifically the data release, its DOI is: 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XYZ.svg)](https://doi.org/10.5281/zenodo.XYZ).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14384634.svg)](https://doi.org/10.5281/zenodo.14384634)
 
 
 ## Data
