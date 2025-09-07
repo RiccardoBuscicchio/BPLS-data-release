@@ -21,8 +21,8 @@ rc_params = {'axes.labelsize': 18,
           'font.serif': ['Bitstream Vera'],
           'xtick.labelsize': 18,
           'ytick.labelsize': 18,
-          'text.usetex': True,
-          'text.latex.preamble': r"""\usepackage{amsmath} \usepackage{amssymb} \usepackage{amsfonts}""",
+          'text.usetex': False,
+          #'text.latex.preamble': r"""\usepackage{amsmath} \usepackage{amssymb} \usepackage{amsfonts}""",
           'figure.figsize': rect_size,
          }
 
