@@ -13,6 +13,12 @@ You are welcome to use this dataset in your research. We kindly ask you to cite 
 If you want to cite specifically the data release, its DOI is: 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14384634.svg)](https://doi.org/10.5281/zenodo.14384634)
 
+## Binder
+Each figure is also available for reproducibility as a Binder image. 
+
+- Figure 1: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RiccardoBuscicchio/BPLS-data-release/binder?labpath=notebooks%2Fjupyter%2FFigure1.ipynb)
+- Figure 2: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RiccardoBuscicchio/BPLS-data-release/binder?labpath=notebooks%2Fjupyter%2FFigure2.ipynb)
+- Figure 3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RiccardoBuscicchio/BPLS-data-release/binder?labpath=notebooks%2Fjupyter%2FFigure3.ipynb)
 
 ## Data
 
