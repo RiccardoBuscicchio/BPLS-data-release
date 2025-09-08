@@ -5,7 +5,7 @@ Data release supporting:
 _Is your stochastic signal really detectable?_
 
 Federico Pozzoli, Jonathan Gair, Riccardo Buscicchio, Lorenzo Speri. 
-[arXiv: xxxx](https://arxiv.org/abs/XXX.YYYY).
+[arXiv: 2412.10468](https://arxiv.org/abs/2412.10468).
 
 ## Credits
 
